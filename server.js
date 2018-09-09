@@ -2,7 +2,7 @@ const http = require('http');
 const url = require('url');
 const httpProxy = require('http-proxy');
 
-const target = process.argv[2];
+const target = process.env.URL_TARGET || process.argv[2];
 
 const port = process.env.PORT || 8000;
 
