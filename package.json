@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "start:env": "URL_TARGET=http://planer.info.pl node server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
