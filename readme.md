@@ -5,7 +5,7 @@ Here you have ready to use small node.js server which adds CORS headers.
 
 ## How to use it?
 
-### On CI/heroku/whatever
+### On your server/heroku/whatever
 
 * Set environment variable: `URL_TARGET` to your proxy target url. f.e.: `https://example.com`
 * `npm ci` (which is `npm install` but from `package-lock.json`)
