@@ -1,7 +1,7 @@
 # CORS proxy
 During surfing through internet you will find open APIs which are open ... yeah, but don't support CORS.
 
-Here you have ready to use small node.js server which adds CORS headers.
+Grab this ready to use small node.js server which adds CORS headers. Simply use it as a proxy 😉
 
 ## How to use it?
 
